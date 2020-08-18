@@ -25,7 +25,7 @@
 
 ---
 
-![](dirtyhands.JPG)
+![](dirtyhands.jpg)
 
 
 ## We aim to solve for the Investment Issues of the Bulk of the Investment Public

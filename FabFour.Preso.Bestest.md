@@ -1,9 +1,11 @@
 
 
-![](thebeatles2.JPG)
-<img src="thebeatles2" width=100>
-<img src="thebeatles2" width=300>
-src="img/thebeatles2.jpg"
+![](thebeatles2.jpg)
+
+<img src="thebeatles2.jpg" width=100>
+
+<img src="thebeatles2.jpg" width=300>
+
 
 
 # Fab Four LLC - Professional Portfolio Optimizers

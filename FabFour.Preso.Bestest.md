@@ -1,6 +1,6 @@
 
 
-![the-beatles2](the-beatles2.JPG)
+![](thebeatles2.JPG)
 
 
 
@@ -24,7 +24,7 @@
 
 ---
 
-![dirty-hands](dirty-hands.JPG)
+![](dirtyhands.JPG)
 
 
 ## We aim to solve for the Investment Issues of the Bulk of the Investment Public

@@ -2,9 +2,6 @@
 
 ![](thebeatles2.jpg)
 
-<img src="thebeatles2.jpg" width=100>
-
-<img src="thebeatles2.jpg" width=300>
 
 
 

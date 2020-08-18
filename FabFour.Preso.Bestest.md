@@ -3,6 +3,7 @@
 ![](thebeatles2.JPG)
 <img src="thebeatles2" width=100>
 <img src="thebeatles2" width=300>
+src="img/thebeatles2.jpg"
 
 
 # Fab Four LLC - Professional Portfolio Optimizers

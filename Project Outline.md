@@ -18,19 +18,23 @@ Use Efficient Market Hypothesis to arrive at optimized portflio for the individu
 
 ## Files to be used:
 
-1. Dataframe ipnyb
+1. Outline.md
 
-2. Optimizer ipynb code
+2. FabFour.Preso.Bestest.md
 
-3. Monte Carlo Simulation
+3. Project.Code.ipynb
 
-4. Various illustrative charting and PyViz outputs
+4. Various jpeg files for illustrative purposes in the presentation
 
 ## External Data to be Used
 
 * Alpaca
 * Yahoo Finace
 * Bloomberg Pricing
+
+## New Python Package utilized
+
+* Statsmodels
 
 ## Tasks
 
@@ -40,6 +44,8 @@ Use Efficient Market Hypothesis to arrive at optimized portflio for the individu
 * Construct Dataframe from security price data
 * Agree on periodicity of Data Look-back
 * Perform analysis on dataframe i.e. returns, risk stats, correlation
-* Code Optimizer and output to Dashboard. Use baseline portfolio and Optimized
-* Various visualization packages
-* Project Future expected returns using Monte Carlo simulation
+* Code Optimizer
+* Code Monte Carlo
+* Code CAPM
+* Enhance Optimizer Interactive Tool
+* Various Visualization Packages

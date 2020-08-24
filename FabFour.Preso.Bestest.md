@@ -7,6 +7,12 @@
 
 # Fab Four LLC - Professional Portfolio Optimizers
 
+# Team 3 - Fab Four Portfolio Optimizers
+## Team Members
+* Steven Cherry II
+* Fred Fu
+* James Menacho
+* Hamza Parekh
 ---
 
 ## "Optimized Asset Allocation for the Individual Investor"
@@ -87,10 +93,13 @@
     * The EF is thus a "moving target"
 
 
-* Monte Carlo Necessities: 
-    * There are enough samples to ensure accurate outcomes
-    * The algorithm used is valid for what it is being modeled for
-    * MC actually simulates the phenomenon in question
+* Monte Carlo Issues: 
+
+    * In order to have a robust MC, you need to have the following criteria which can be elusive in some cases:
+    
+      * There are enough samples to ensure accurate outcomes
+      * The algorithm used is valid for what it is being modeled for
+      * MC actually simulates the phenomenon in question
 
 
 

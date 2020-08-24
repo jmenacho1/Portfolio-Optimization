@@ -34,7 +34,7 @@ Use Efficient Market Hypothesis to arrive at optimized portflio for the individu
 
 ## New Python Package utilized
 
-* Statsmodels
+* "Statsmodels" was used to construct a linear regression
 
 ## Tasks
 

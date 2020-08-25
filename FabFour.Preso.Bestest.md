@@ -100,6 +100,10 @@
       * There are enough samples to ensure accurate outcomes
       * The algorithm used is valid for what it is being modeled for
       * MC actually simulates the phenomenon in question
+      
+      ---
+
+**Footnotes**
 
 [^1]: [Forbes](https://www.forbes.com/sites/zackfriedman/2019/01/11/live-paycheck-to-paycheck-government-shutdown/#b42d3964f10b)<br/>
 [^2]: [Bankrate](https://www.bankrate.com/banking/savings/financial-security-march-2019/)<br/>

@@ -36,10 +36,10 @@
 
 ## We aim to solve for the Investment Issues of the Bulk of the Investment Public
 
-* In 2019, Forbes reported that 78% of American workers lived paycheck to paycheck
-* Also in 2019, Bankrate reported that just 16% of Americans save more then 15% of their annual earnings - 21% save none
-* Thus far in 2020, Gallup finds 55% of Americans reporting that they own stock
-* The concept of Diversification. 50% of Americans don’t know if it’s better to invest in a single stock or a mutual fund
+* In 2019, Forbes reported that 78% of American workers lived paycheck to paycheck [^1]
+* Also in 2019, Bankrate reported that just 16% of Americans save more then 15% of their annual earnings - 21% save none [^2] 
+* Thus far in 2020, Gallup finds 55% of Americans reporting that they own stock [^3] 
+* The concept of Diversification. 50% of Americans don’t know if it’s better to invest in a single stock or a mutual fund [^4] 
 
 ### The Notion of the Efficient Frontier in the context of Modern Portfolio Theory
 
@@ -101,5 +101,7 @@
       * The algorithm used is valid for what it is being modeled for
       * MC actually simulates the phenomenon in question
 
-
-
+[^1]: [Forbes](https://www.forbes.com/sites/zackfriedman/2019/01/11/live-paycheck-to-paycheck-government-shutdown/#b42d3964f10b)<br/>
+[^2]: [Bankrate](https://www.bankrate.com/banking/savings/financial-security-march-2019/)<br/>
+[^3]: [Gallup](https://news.gallup.com/poll/266807/percentage-americans-owns-stock.aspx)<br/>
+[^4]: [CNBC.com](https://www.cnbc.com/2020/02/19/50percent-of-americans-dont-know-how-to-diversify-their-investments.html)<br/>

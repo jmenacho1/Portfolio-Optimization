@@ -100,8 +100,8 @@
       * There are enough samples to ensure accurate outcomes
       * The algorithm used is valid for what it is being modeled for
       * MC actually simulates the phenomenon in question
-      
-      ---
+   
+---
 
 **Footnotes**
 

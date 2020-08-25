@@ -110,7 +110,7 @@
 [^3]: [Gallup](https://news.gallup.com/poll/266807/percentage-americans-owns-stock.aspx)<br/>
 [^4]: [CNBC.com](https://www.cnbc.com/2020/02/19/50percent-of-americans-dont-know-how-to-diversify-their-investments.html)<br/>
 
-
+[^footnote]: Test, [Link](https://google.com).
 
 
 

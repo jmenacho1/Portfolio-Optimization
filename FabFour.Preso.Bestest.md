@@ -111,7 +111,7 @@
 [^4]: [CNBC.com](https://www.cnbc.com/2020/02/19/50percent-of-americans-dont-know-how-to-diversify-their-investments.html)<br/>
 
 [^1]: Forbes, [Link](https://forbes.com/sites/zackfriedman/2019/01/11/live-paycheck-to-paycheck-government-shutdown/#b42d3964f10b)<br/>
-
-
-
+[^2]: Bankrate, [Link](https://bankrate.com/banking/savings/financial-security-march-2019/)<br/>
+[^3]: Gallup, [Link](https://news.gallup.com/poll/266807/percentage-americans-owns-stock.aspx)<br/>
+[^4]: CNBC.com, [Link}(https://cnbc.com/2020/02/19/50percent-of-americans-dont-know-how-to-diversify-their-investments.html)<br/>
 

@@ -110,9 +110,7 @@
 [^3]: [Gallup](https://news.gallup.com/poll/266807/percentage-americans-owns-stock.aspx)<br/>
 [^4]: [CNBC.com](https://www.cnbc.com/2020/02/19/50percent-of-americans-dont-know-how-to-diversify-their-investments.html)<br/>
 
-
-
-
+[^1]: [Forbes](https://stackoverflow.com/questions/15110479/markdown-and-footnotes-most-natural-format-missing)
 
 
 

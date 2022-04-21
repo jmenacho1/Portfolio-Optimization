@@ -2,17 +2,8 @@
 
 ![](thebeatles2.jpg)
 
-
-
-
 # Fab Four LLC - Professional Portfolio Optimizers
 
-# Team 3 - Fab Four Portfolio Optimizers
-## Team Members
-* Steven Cherry II
-* Fred Fu
-* James Menacho
-* Hamza Parekh
 ---
 
 ## "Optimized Asset Allocation for the Individual Investor"
